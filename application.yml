@@ -13,5 +13,5 @@ spring:
 
 ##greeting config
 greeting:
-   message:  您好，欢迎光临!
+   message:  Hello,Welocome to ChaShang!
    
