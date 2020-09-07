@@ -13,5 +13,5 @@ spring:
 
 ##greeting config
 greeting:
-   message:  Hello,Welocome to ChaShang!
+   message:  测试，更新配置！Hello configServer!
    
