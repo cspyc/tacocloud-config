@@ -13,5 +13,5 @@ spring:
 
 ##greeting config
 greeting:
-   message:  hello world!
+   message:  您好，欢迎光临!
    
