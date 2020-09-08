@@ -13,5 +13,5 @@ spring:
 
 ##greeting config
 greeting:
-   message:  Welcome to ChangSha!
+   message:  Auto update config server configuration,Welcome to ChangSha!
    
